@@ -2,7 +2,7 @@
 
 ## Requirements
 - [Sublime Text 3](http://www.sublimetext.com/)
-- [Package Control]()https://sublime.wbond.net/)
+- [Package Control](https://sublime.wbond.net/)
 
 ## Installation
 
